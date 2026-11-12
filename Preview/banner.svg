@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Skip Sponsored Segments">
+  <rect width="1000" height="340" fill="#0f172a"/>
+  <rect x="0" y="0" width="12" height="340" fill="#0d9488"/>
+  <circle cx="880" cy="90" r="150" fill="#0d9488" opacity="0.08"/>
+  <circle cx="930" cy="250" r="90" fill="#0d9488" opacity="0.06"/>
+  <text x="60" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3" fill="#0d9488">NETWORKING &amp; PRIVACY</text>
+  <text x="60" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc">Skip Sponsored Segments</text>
+  <text x="60" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#94a3b8">Automatically skip sponsor and intro segments in YouTube videos.</text>
+  <rect x="60" y="250" rx="13" ry="13" width="82" height="30" fill="#1e293b" stroke="#0d9488" stroke-width="1.2"/><text x="101" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">Chrome</text><rect x="154" y="250" rx="13" ry="13" width="92" height="30" fill="#1e293b" stroke="#0d9488" stroke-width="1.2"/><text x="200" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">Firefox</text><rect x="258" y="250" rx="13" ry="13" width="62" height="30" fill="#1e293b" stroke="#0d9488" stroke-width="1.2"/><text x="289" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">Edge</text><rect x="332" y="250" rx="13" ry="13" width="92" height="30" fill="#1e293b" stroke="#0d9488" stroke-width="1.2"/><text x="378" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">Android</text>
+</svg>
